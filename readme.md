@@ -9,9 +9,7 @@
 ```$ sudo systemctl status ssh``` - проверяю<br />
 новое окно консоли<br />
 ```$ python3 -m http.server``` - распакова модуля http.server<br />
-![Снимок экрана от 2023-05-04 17-48-51](https://user-images.githubusercontent.com/75660322/236249095-11982ee9-f757-4a86-9848-32edefacd4de.png)
-новое окно консоли<br />
 ```$ nano index.html``` - создаю<br />
 ```$ ngrok tcp 22``` - запускаю TCP туннель<br />
-![Снимок экрана от 2023-05-04 17-47-52](https://user-images.githubusercontent.com/75660322/236249116-1440f0c6-efcf-48b5-92f0-5abd3061cb7c.png)<br />
+![Снимок экрана от 2023-05-04 17-47-52](file:///home/ksenia/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B8%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-06-02%2017-55-17.png)<br />
 ***ssh 6.tcp.eu.ngrok.io -p 12977***
