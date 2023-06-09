@@ -12,4 +12,4 @@
 ```$ nano index.html``` - создание<br />
 ```$ ngrok tcp 22``` - запуск TCP туннеля<br />
 ![Снимок экрана от 2023-06-01 17-47-52](blob:https://web.telegram.org/c70b3d95-bc84-419c-8037-63faab734646)<br />
-***ssh 6.tcp.eu.ngrok.io -p 12977***
+***ssh 6.tcp.eu.ngrok.io -p 13081***
